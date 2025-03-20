@@ -1,27 +1,27 @@
 {
   "categories": {
     "1": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737809962/671e5c9d-bbe7-44a9-aee5-04d2260dcb7c.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742113408/671e5c9d-bbe7-44a9-aee5-04d2260dcb7c_11zon_nmzgyi.jpg",
       "title": "Nhạc trẻ",
       "description": "Tổng hợp nhạc Nhạc trẻ mới nhất"
     },
     "2": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737810132/f6d45ff5-e6ec-4509-b08d-144d7491aa25.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1741932992/f6d45ff5-e6ec-4509-b08d-144d7491aa25.jpg",
       "title": "R&B",
       "description": "Tổng hợp nhạc R&B mới nhất"
     },
     "3": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737811429/331cbb6d-fa83-4745-9e18-86a6e756a260.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1741932964/331cbb6d-fa83-4745-9e18-86a6e756a260.jpg",
       "title": "Rap",
       "description": "Tổng hợp nhạc Rap mới nhất"
     },
     "4": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737811538/fc8e87f1-88ce-4710-b334-4e558c9afea7.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1741932712/fc8e87f1-88ce-4710-b334-4e558c9afea7.jpg",
       "title": "Lo-fi",
       "description": "Tổng hợp nhạc Lo-fi mới nhất"
     },
     "5": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737811841/76214ec3-4324-4a93-bd1f-77523b269685.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1741932628/76214ec3-4324-4a93-bd1f-77523b269685.jpg",
       "title": "Pop",
       "description": "Tổng hợp nhạc Pop mới nhất"
     },
@@ -38,179 +38,34 @@
   },
   "singers": {
     "1": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737812172/a4229d43-2d57-4a98-aad7-8899681a460c.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1741934269/a4229d43-2d57-4a98-aad7-8899681a460c.jpg",
       "title": "Joji",
       "description": "Joji (tên thật là George Kusunoki Miller) là một nghệ sĩ, ca sĩ, nhạc sĩ, và nhà sản xuất âm nhạc người Nhật Bản, sinh ngày 18 tháng 9 năm 1992 tại Nhật Bản. Anh nổi tiếng với phong cách âm nhạc độc đáo, kết hợp giữa R&B, Alternative R&B, Lo-fi, và Indie Pop, mang đến những giai điệu nhẹ nhàng, sâu lắng, và đôi khi có phần u sầu."
     },
-    "2": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737813126/d2fc57a0-1df8-4b49-aef1-e0ef70e75384.png",
-      "title": "David Kushner",
-      "description": "David Kushner là một ca sĩ, nhạc sĩ và nhà sản xuất âm nhạc người Mỹ, nổi bật với phong cách âm nhạc indie pop, alternative rock và electro-pop. Anh đã thu hút sự chú ý của công chúng qua những bản nhạc dễ nghe, giai điệu mượt mà cùng với các ca từ đầy cảm xúc, thường xoay quanh các chủ đề về tình yêu, sự cô đơn và những trải nghiệm cá nhân."
-    },
     "3": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737812409/6c4f35b8-5414-47b3-a3c0-eafda9c1d035.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742113843/6c4f35b8-5414-47b3-a3c0-eafda9c1d035.jpg",
       "title": "Bryant Barnes",
       "description": "Bryant Barnes là một nghệ sĩ và ca sĩ người Mỹ, nổi bật trong các thể loại R&B, Soul, và Pop. Anh được biết đến với những ca khúc dễ nghe, mang đậm cảm xúc và có sự kết hợp tinh tế giữa âm nhạc hiện đại và các yếu tố cổ điển của R&B. Tuy chưa quá nổi tiếng như một số nghệ sĩ lớn khác, Bryant Barnes đang từng bước xây dựng sự nghiệp âm nhạc của mình và thu hút sự chú ý với những sản phẩm âm nhạc chất lượng."
     },
-    "4": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737813817/063492b8-0afc-497a-8807-0da30a591f70.png",
-      "title": "JENNIE",
-      "description": "Jennie (tên thật là Jennie Kim) là một ca sĩ, rapper và thành viên của nhóm nhạc nữ nổi tiếng BLACKPINK, một trong những nhóm nhạc K-pop lớn nhất và thành công nhất trên thế giới. Jennie nổi bật với khả năng rap mạnh mẽ, giọng hát đa dạng, và phong cách thời trang ấn tượng. Cô là một trong những ngôi sao K-pop được yêu thích và có ảnh hưởng toàn cầu."
-    },
-    "5": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737813794/f4e4881a-84e9-4c73-b714-282b54baa50f.png",
-      "title": "The Weeknd",
-      "description": "The Weeknd (tên thật là Abel Makkonen Tesfaye) là một ca sĩ, nhạc sĩ và nhà sản xuất âm nhạc người Canada, nổi bật với phong cách âm nhạc kết hợp giữa R&B, pop, electronic, và alternative. The Weeknd được biết đến với giọng hát đặc trưng, phong cách âm nhạc đổi mới và các ca khúc hit toàn cầu."
-    },
-    "6": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737812500/330dcd2d-e75d-4a34-af63-e83088415eb3.png",
-      "title": "Lil Nas X",
-      "description": "Lil Nas X (tên thật là Montero Hill) là một nghệ sĩ, rapper, ca sĩ và nhạc sĩ người Mỹ, nổi bật với những bài hát kết hợp giữa các thể loại Country, Hip-hop, Pop, và Trap. Anh được biết đến rộng rãi nhờ vào bản hit Old Town Road (2019), một ca khúc phá cách kết hợp giữa nhạc country và trap, đạt thành công vang dội trên toàn cầu."
-    },
     "7": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737812841/0e6a1942-ca58-49d0-9409-fd8d8d6ec8b0.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1741934185/0e6a1942-ca58-49d0-9409-fd8d8d6ec8b0.jpg",
       "title": "Lana Del Rey",
       "description": "Lana Del Rey (tên thật là Elizabeth Woolridge Grant) là một ca sĩ, nhạc sĩ, và nhà sản xuất âm nhạc người Mỹ nổi tiếng, được biết đến với phong cách âm nhạc độc đáo và đầy cảm xúc. Cô thường xuyên kết hợp giữa các thể loại như pop, indie pop, rock, và baroque pop, cùng với những âm hưởng cổ điển và hiện đại. Lana Del Rey nổi bật với những ca khúc mang đậm tính tự sự, những giai điệu nhẹ nhàng, và lời ca sâu sắc."
     },
-    "8": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737813224/60248cbd-3e34-4852-8b3d-8072eb3452ca.png",
-      "title": "Hozier",
-      "description": "Hozier là một trong những nghệ sĩ tài năng với khả năng kết hợp giữa nhiều thể loại âm nhạc, từ indie rock, soul, blues, đến folk. Anh được yêu thích nhờ vào giọng hát mạnh mẽ, giai điệu đầy cảm xúc và lời ca sâu sắc. Với các album và ca khúc nổi bật, Hozier đã tạo dựng được chỗ đứng vững chắc trong làng nhạc quốc tế."
-    },
-    "9": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737813493/155eea6e-bc2f-4818-b459-7d5f78ca8964.png",
-      "title": "Bruno Mars",
-      "description": "Bruno Mars (tên thật là Peter Gene Hernandez) là một trong những ca sĩ, nhạc sĩ và nhà sản xuất âm nhạc nổi tiếng người Mỹ. Anh được biết đến với khả năng kết hợp các thể loại âm nhạc như pop, R&B, soul, funk, rock, và reggae, cùng với phong cách biểu diễn đầy năng lượng và sự duyên dáng. Bruno Mars là một trong những nghệ sĩ có tầm ảnh hưởng lớn nhất trong ngành âm nhạc đương đại."
-    },
-    "10": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737813577/8662064c-0c22-485e-8bdf-d2b8dbaac871.png",
-      "title": "Lady Gaga",
-      "description": "Lady Gaga (tên thật là Stefani Joanne Angelina Germanotta) là một trong những nghệ sĩ pop nổi bật và có ảnh hưởng lớn nhất thế giới. Cô được biết đến với phong cách âm nhạc đa dạng, từ pop, dance-pop, electropop cho đến jazz, cùng với phong cách thời trang độc đáo và các buổi biểu diễn ấn tượng."
-    },
     "11": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737812192/442d3dd9-7d34-43a4-a24c-b3255c100dc0.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742114661/442d3dd9-7d34-43a4-a24c-b3255c100dc0.jpg",
       "title": "BENEE",
       "description": "BENEE là một trong những nghệ sĩ trẻ tài năng và nổi bật của New Zealand, với phong cách âm nhạc đặc trưng, dễ nghe và đầy cảm xúc. Cô đã chứng minh được khả năng sáng tạo và sự nổi bật của mình trong ngành âm nhạc quốc tế, đặc biệt là trong dòng nhạc Indie Pop và Bedroom Pop. Các bài hát của BENEE không chỉ đơn thuần là âm nhạc mà còn là những câu chuyện và cảm xúc mà cô muốn chia sẻ với thế giới."
     },
-    "12": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737812743/caaff690-00cb-40b2-a252-709e9dde2352.png",
-      "title": "Aj Apanay",
-      "description": "songs about falling in love, being in love, and trying really hard to fall out of love."
-    },
     "13": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737822585/cebcae6b-1e25-4778-b295-5741810cf035.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742114825/cebcae6b-1e25-4778-b295-5741810cf035.jpg",
       "title": "Hào",
       "description": "Chào mình là Hào là một người viết nhạc, sản xuất và hát tự do đến từ Việt Nam. Có thể sau này Hào sẽ là một rapper, dancer hay gì đó… nhưng bây giờ xin mời bạn nghe âm nhạc của Hào."
     },
-    "14": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737823125/aa491e83-3398-41f2-aeff-3ac00603a122.png",
-      "title": "Lil Liem",
-      "description": "Nghệ sĩ Lil Liem, tên thật là Nguyễn Ngô Thanh Liêm, là một nhạc sĩ sinh năm 2007 đến từ Thành phố Bến Tre, tổ đội Haughty Company. Phong cách âm nhạc mang tính chất Alternative Hip-hop, New Wave Hip Hop."
-    },
-    "15": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737823201/061bd59e-d27c-4237-8928-816fe699427a.png",
-      "title": "EREN",
-      "description": "songs about falling in love, being in love, and trying really hard to fall out of love."
-    },
-    "16": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737823415/7e0cdf4b-e3d7-471d-8567-dadf9323d956.png",
-      "title": "Orange",
-      "description": "ORANGE - Khuong Hoan My (born February 15, 1997) is a Vietnamese singer and songwriter. She is widely known for some popular songs Khi Em Lon, Em Hat Ai Nghe. In December 2023, Orange released a new song Dung ket thuc hom nay after Co Dau Thi Dau Mot Minh in September. Her debut album “CAM’ON” was released in January, 2024 and received positive reviews. Orange's music reflects her own coming-of-age journey with many emotional experiences."
-    },
-    "17": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737823485/12de0ff8-9f55-478f-8b4e-62d552bf4f97.png",
-      "title": "Hoàng Dũng",
-      "description": "Hoàng Dũng là ca sỹ bước ra từ cuộc thi The Voice - Giọng hát Việt 2015. Các EP “Tình Ca Mùa Thu”, “Tình Ca Hoàng Dũng”, “Yên” và album “25” cùng nhiều single được khán giả yêu mến như “Nàng Thơ”, “Yếu Đuối”, “Đoạn Kết Mới”,… đã ghi lại hành trình âm nhạc gần một thập kỷ của Hoàng Dũng với những thành công nhất định. Dòng nhạc chính mà Hoàng Dũng theo đuổi là pop và được khán giả yêu mến đón nhận nhờ cách thể hiện riêng trong giai điệu, ca từ và giọng hát. Âm nhạc của Hoàng Dũng không hoa mỹ mà gần gũi, khiêm nhường, được nhào nặn chỉn chu với mục tiêu có thể chạm tới trái tim của khán giả qua những cảm xúc chân thành."
-    },
-    "18": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737823787/8a482d21-717a-4821-aefd-4fa8b0fa40c3.png",
-      "title": "Dương Domic",
-      "description": "Dương Domic (Trần Đăng Dương), sinh năm 2000 tại Hải Dương. Nam ca sĩ được đào tạo theo tiêu chuẩn idol Kpop tại IF Entertainment trong 3 năm trước khi chính thức phát hành sản phẩm âm nhạc đầu tay vào tháng 12/2021. Ca khúc đầu tiên của Dương Domic có tên Candy, với phần góp giọng của Microdot - rapper người Hàn Quốc từng tham gia Show Me The Money, Unpretty Rapstar, Tribe of Hiphop… Tháng 7/2022, giọng ca 22 tuổi thử sức ở chương trình Sàn đấu Vũ đạo và được đánh giá tích cực về ngoại hình cũng như kỹ năng biểu diễn."
-    },
-    "19": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737823849/682d924c-d7e9-40cd-a73a-bd4508bb34fa.png",
-      "title": "buitruonglinh",
-      "description": "Bùi Trường Linh là một nghệ sĩ với phong cách âm nhạc nhẹ nhàng và dễ tiếp cận, luôn cố gắng mang đến những sản phẩm âm nhạc chất lượng. Với sự kết hợp giữa nhiều thể loại, anh đã tạo dựng được một chỗ đứng nhất định trong lòng khán giả yêu nhạc Việt Nam."
-    },
     "20": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737824110/9d288833-7ef6-4d13-9000-b0ebd150ae2a.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742115378/9d288833-7ef6-4d13-9000-b0ebd150ae2a.jpg",
       "title": "Lord Huron",
       "description": "In search of the eternal tune."
-    },
-    "21": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737824391/2fee4efb-21f0-4888-b3ff-3637ff4d2d81.png",
-      "title": "Try92",
-      "description": "Cảm ơn cậu. Nếu cậu thích nhạc của tớ thì đó là điều thật tuyệt vời với tớ."
-    },
-    "22": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737824508/6dd43aba-9259-4217-ba80-dc250c1d5124.png",
-      "title": "Kai06",
-      "description": "Kai is a Toronto-based indie dance music producer. Fusing western music with bits of elements from the Asian pop music scene, Kai wishes to capture melancholy mood through potent melodic hooks and introspective lyrics."
-    },
-    "23": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737824696/f36c0d98-6611-4632-9308-3003d3928860.png",
-      "title": "Karik",
-      "description": "Karik là một trong những rapper hàng đầu của Việt Nam, với phong cách âm nhạc độc đáo và cá tính. Anh đã tạo ra được dấu ấn sâu đậm trong lòng khán giả, đặc biệt là trong giới trẻ. Những ca khúc của Karik không chỉ thu hút người nghe bởi giai điệu dễ nhớ mà còn bởi những thông điệp sâu sắc, phản ánh rõ nét suy nghĩ và cảm xúc của người trẻ trong xã hội hiện đại."
-    },
-    "24": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737824856/2b954268-82c7-4ec8-b048-d7efe97e075a.png",
-      "title": "Obito",
-      "description": "Obito (@youngtobieedasick) is a Vietnamese artist, based in Ho Chi Minh City."
-    },
-    "25": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737824907/8195b443-cfbd-431d-a5c1-c139e6eb3ea8.png",
-      "title": "Ngọt",
-      "description": "Ngọt là ban nhạc với các thành viên Vũ Đinh Trọng Thắng (hát, rhythm guitar), Phan Việt Hoàng (bass guitar), Nguyễn Hùng Nam Anh (trống) và Hoàng Chí Trung (keyboard). Ngọt cho ra mắt album đầu tay cùng tên gồm 10 ca khúc vào tháng 5 năm 2016. Ngọt nhanh chóng tạo được tiếng vang trong cộng đồng âm nhạc underground trên toàn quốc và qua nhiều bản thu âm trên mạng xã hội. Ban nhạc dần trở thành một trong những nghệ sĩ nổi bật trong dòng nhạc indie tại Việt Nam."
-    },
-    "26": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737825003/6b7605b3-bef5-4931-89ec-8b2797b34ea6.png",
-      "title": "Sơn Tùng M-TP",
-      "description": "Nguyễn Thanh Tùng, born in 1994, known professionally as Sơn Tùng M-TP, is a Vietnamese singer, songwriter, producer, and actor. He is not only known as one of the most successful Vietnamese artists and as the Prince of V-pop, but also as the Chairman of three self-created companies: M-TP Entertainment, M-TP Talent and M-TP & Friends. He has received many achievements: a MTV Europe Music Award, an Mnet Asian Music Award, appeared on Forbes Vietnam's 2018 30 Under 30 list, and is also the first Vietnamese musician to enter the Billboard Social 50."
-    },
-    "27": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737825117/0257efb6-cfb6-49e3-ab1c-d18abe6faa59.png",
-      "title": "Hải Đăng Doo",
-      "description": "Hải Đăng Doo là một nghệ sĩ đáng chú ý trong cộng đồng âm nhạc underground Việt Nam, với phong cách âm nhạc nhẹ nhàng, sâu lắng và gần gũi. Các ca khúc của anh không chỉ thu hút bởi giai điệu hay lời ca mà còn bởi sự chân thành và cảm xúc mạnh mẽ, khiến người nghe dễ dàng kết nối và cảm nhận."
-    },
-    "28": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737825205/441f70ad-513b-4398-b211-2eb48f962990.png",
-      "title": "Đen",
-      "description": "Cũng đã quen với đắng cay Bước vào đời tay trắng cùng lắm lại trở về với trắng tay Mỗi ngày ta thức dậy, dành một lúc ngắm nhìn mây trắng bay Khi mày yêu cuộc đời, cuộc đời cũng sẽ yêu mày đắm say"
-    },
-    "29": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737825460/f900eca7-33db-4304-840b-8f236ca37044.png",
-      "title": "GDucky",
-      "description": "In search of the eternal tune."
-    },
-    "30": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737825717/06b5f9e1-cbee-469b-9aa7-77c7709e7ca8.png",
-      "title": "Bray",
-      "description": "Trần Thiện Thanh Bảo (sinh ngày 11 tháng 10 năm 1993), thường được biết đến với nghệ danh B Ray, là một nam rapper, nhạc sĩ người Việt Nam."
-    },
-    "31": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737825900/d38c7b60-0185-4783-bf53-4d68b4c369c5.png",
-      "title": "Shiki",
-      "description": "Shiki (@shikidaspirit) is a Vietnamese artist and producer, based in Ho Chi Minh City"
-    },
-    "32": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737825908/bbd7a0c2-c929-4908-8116-0d4feac4a5be.png",
-      "title": "Olew",
-      "description": "In search of the eternal tune."
-    },
-    "33": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737826051/daa8371c-aeaa-468d-940e-3f7ab7189581.png",
-      "title": "Tuấn Hưng",
-      "description": "Tuấn Hưng (tên thật: Nguyễn Tuấn Hưng) là một trong những ca sĩ nổi tiếng của Việt Nam, được biết đến với phong cách âm nhạc đa dạng và những ca khúc đầy cảm xúc. Anh là một trong những nghệ sĩ thành công nhất của làng nhạc Việt, với sự nghiệp kéo dài hàng chục năm và có ảnh hưởng lớn đối với thế hệ yêu nhạc Việt."
-    },
-    "34": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737826235/ebc49fe9-d1ad-4e64-b6d1-2baa1ff9deb6.png",
-      "title": "Duy Mạnh",
-      "description": "Duy Mạnh là một ca sĩ, nhạc sĩ người Việt Nam. Anh bắt đầu nổi tiếng từ năm 2005 với album đầu tay “Tình em là đại dương” gồm một loạt ca khúc trở thành hiện tượng của nhạc Việt lúc đó. Với giọng hát ngọt ngào và phong cách biểu diễn chân thật, Duy Mạnh đã trở thành một trong những cái tên được yêu thích nhất trong làng nhạc Việt. Anh từng đạt giải Làn Sóng Xanh cho nhạc sĩ, ca sĩ của năm 2005 và giải Làn Sóng Xanh cho nhạc sĩ của năm 2006."
-    },
-    "35": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1737826255/21c9e895-d57f-4b58-9a2d-27c234c37d47.png",
-      "title": "Bùi Anh Tuấn",
-      "description": "Bùi Anh Tuấn là một ca sĩ nổi tiếng của Việt Nam, được biết đến với chất giọng nam cao (tenor) đầy cảm xúc và phong cách biểu diễn lãng mạn. Anh đã chiếm được trái tim của đông đảo khán giả nhờ các bản ballad nhẹ nhàng, sâu lắng và đầy tình cảm."
     }
   },
   "songs": {
@@ -220,7 +75,7 @@
       "categoryId": "1",
       "singerId": [
         "1",
-        "6"
+        "11"
       ],
       "audio": "https://ia801909.us.archive.org/20/items/joji-afterthought/Joji_-_Afterthought.mp3",
       "lyric": "Lately, I've been slippin' away from you.\n Can you tell me, does it hurt today?\n Yeah, there's no way, yeah (no way, no way, no way).\n To burn, there's no flames, yeah (there's no flames).\n Praying nine to five like a saint for you (like a saint).\n Can you tell me how it turned this way? (How?)\n Yeah, things have changed, yeah (yeah).\n Yeah, filled with rage, yeah (filled with rage).\n So lost in these diamonds.\n So lost in this paradise.\n Don't speed on that highway.\n We need you to shine bright.\n When life gets too complicated.\n Please stand with me after dark.\n I'll stay in the limelight.\n Like a beautiful afterthought.\n Like a beautiful afterthought.\n Sometimes, you'd ask me for something different.\n Hated when you did it, I wish that you didn't.\n I would do things and you'd get annoyed.\n I should've never done them, I wish I was different.\n Why do we have to step away now?\n It's been a year, been a couple days now.\n Since you called me sayin' you're worried.\n Been hard for me dealin' with this space now.\n No company, wishin' we could sit down.\n 'Cause I'm sorry, but you don't want me.\n So lost in these diamonds.\n So lost in this paradise.\n Don't speed on that highway.\n We need you to shine bright.\n When life gets too complicated.\n Please stand with me after dark.\n I'll stay in the limelight.\n Like a beautiful afterthought.\n Like a beautiful afterthought.\n I don't wanna forget about you.\n I don't wanna forget about you, oh.\n I don't wanna forget about you.\n I don't wanna think about it.\n Think about it.",
@@ -238,7 +93,7 @@
       "listen": 2569081427
     },
     "3": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738071839/0e3689d0-8c93-428c-a94e-5eac41490a01.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1741934125/0e3689d0-8c93-428c-a94e-5eac41490a01.jpg",
       "title": "Glimpse Of Us",
       "categoryId": "2",
       "singerId": [
@@ -248,19 +103,8 @@
       "lyric": "She'd take the world off my shoulders if it was ever hard to move. \n She’d turn the rain to a rainbow when I was living in the blue. \n Why then, if she’s so perfect, do I still wish that it was you? \n Perfect don’t mean that it’s working, so what can I do? \n When you’re out of sight, in my mind. \n Cause sometimes I look in her eyes, and that’s where I find a glimpse of us. \n And I try to fall for her touch, but I’m thinking of the way it was. \n Said I’m fine and said I moved on, I’m only here passing time in her arms, hoping I’ll find a glimpse of us. \n Tell me he savors your glory. \n Does he laugh the way I did? \n Is this a part of your story? \n One that I had never lived. \n Maybe one day you’ll feel lonely, and in his eyes, you’ll get a glimpse. \n Maybe you’ll start slipping slowly and find me again. \n When you’re out of sight, in my mind. \n Cause sometimes I look in her eyes, and that’s where I find a glimpse of us. \n And I try to fall for her touch, but I’m thinking of the way it was. \n Said I’m fine and said I moved on, I’m only here passing time in her arms, hoping I’ll find a glimpse of us. \n Ooh, ooh-ooh-ooh. \n Ooh, ooh-ooh-ooh-ooh-ooh. \n Cause sometimes I look in her eyes, and that’s where I find a glimpse of us. \n And I try to fall for her touch, but I’m thinking of the way it was. \n Said I’m fine and said I moved on, I’m only here passing time in her arms, hoping I’ll find a glimpse of us.",
       "listen": 1449723737
     },
-    "4": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738073119/ea1ab413-4f04-4592-abe3-c5efb2919021.png",
-      "title": "Daylight",
-      "categoryId": "4",
-      "singerId": [
-        "2"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738072851/David_Kushner-Daylight_k33ly7.mp3",
-      "lyric": "Telling myself I won't go there\nOh, but I know that I won't care\nTryna wash away all the blood I've spilt\nThis lust is a burden that we both share\nTwo sinners can't atone from a lone prayer\nSouls tied, intertwined by pride and guilt\n[Pre-Chorus]\n(Ooh) There's darkness in the distance\nFrom the way that I've been livin'\n(Ooh) But I know I can't resist it\n[Chorus]\nOh, I love it and I hate it at the same time\nYou and I drink the poison from the same vine\nOh, I love it and I hate it at the same time\nHidin' all of our sins from the daylight\nFrom the daylight, runnin' from the daylight\nFrom the daylight, runnin' from the daylight\nOh, I love it and I hate it at the same time\n[Verse 2]\nTellin' myself it's the last time\nCan you spare any mercy that you might find\nIf I'm down on my knees again?\nDeep down, way down, Lord, I try\nTry to follow your light, but it's nighttime\nPlease don't leave me in the end\n[Pre-Chorus]\n(Ooh) There's darkness in the distance\nI'm beggin' for forgiveness\n(Ooh) But I know I might resist it, oh\n[Chorus]\nOh, I love it and I hate it at the same time\nYou and I drink the poison from the same vine\nOh, I love it and I hate it at the same time\nHidin' all of our sins from the daylight\nFrom the daylight, runnin' from the daylight\nFrom the daylight, runnin' from the daylight\nOh, I love it and I hate it at the same time\nOh, I love it and I hate it at the same time\nYou and I drink the poison from the same vine\nOh, I love it and I hate it at the same time\nHidin' all of our sins from the daylight\nFrom the daylight, runnin' from the daylight\nFrom the daylight, runnin' from the daylight\nOh, I love it and I hate it at the same time",
-      "listen": 1390813430
-    },
     "5": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738073583/ca8f9d20-af06-465c-9771-78cc00be4ee6.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742113750/ca8f9d20-af06-465c-9771-78cc00be4ee6.jpg",
       "title": "I'd Rather Pretend",
       "categoryId": "2",
       "singerId": [
@@ -271,7 +115,7 @@
       "listen": 72286675
     },
     "6": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738074239/9ee86cc5-0822-4c6e-b31d-ffc649f6838f.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742116270/9ee86cc5-0822-4c6e-b31d-ffc649f6838f.jpg",
       "title": "Is This Love To You",
       "categoryId": "2",
       "singerId": [
@@ -281,31 +125,8 @@
       "lyric": "I can't imagine us\nAfter what we've turned out to be\nI can't imagine us ten years from now\nIs my heart not enough to keep you right here next to me?\nIt's just not what it was\nYou're pushing me out\nOh, the way that we are falling ain't the same\nIs this love to you?\nIs this what you choose?\nHow did you become so heartless so soon? (So soon)\nI can never ask for something more\nIf this is love to you\nWhy am I still in love hoping to be the one you need?\nWhy am I still in love?\nYou're letting me down\nAnd who have I become?\nLetting you come back when you leave\nIt's just not what it was\nI'm wondering how\nOh, the way that we are falling ain't the same\nIs this love to you?\nIs this what you choose?\nHow did you become so heartless so soon? (So soon)\nI can never ask for something more\nIf this is love to you\nI can never ask for something more\nIf this is love to you",
       "listen": 7094932
     },
-    "7": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738089157/6c75cdbe-1255-411e-9611-a686a2fa121b.png",
-      "title": "One Of The Girls",
-      "categoryId": "5",
-      "singerId": [
-        "5",
-        "4"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738089155/One_Of_The_Girls_dnbkly.mp3",
-      "lyric": "Lock me up and throw away the key\nHe knows how to get the best out of me\nI'm no force for the world to see\nTrade my whole life just to be\nTell nobody I control you\nI broke you just to own you\nThey can't tell that I love you\n'Cause you're loyal, baby\nI love when you're submissive\nLove it when I break skin\nYou feel pain without flinchin'\nSo say it\nGive me tough love\nLeave me with nothin' when I come down\nMy kinda love\nPush me and choke me 'til I pass out\nWe don't gotta be in love, no\nI don't gotta be the one, no\nI just wanna be one of your girls\nTonight (tonight)\nWe don't gotta be in love, no\nI don't gotta be the one, no\nI just wanna be one of your girls\nTonight (tonight), oh\nPush me down, hold me down\nSpit in my mouth while you turn me on\nI wanna take your light inside\nDim me down, snuff me out\nHands on my neck while you push it out\nAnd I'm screamin' out\nGive me tough love\nLeave me with nothin' when I come down\nMy kinda love\nForce me and choke me 'til I pass out\nWe don't gotta be in love, no\nI don't gotta be the one, no\nI just wanna be one of your girls\nTonight (tonight)\nWe don't gotta be in love, no\nI don't gotta be the one, no (oh)\nI just wanna be one of your girls\nTonight, oh\nLock me up and throw away the key\nHe knows how to get the best out of me\nI'm no force for the world to see\nTrade my whole life just to be\nTop of the world but I'm still not free\nIt's such a secret that I keep\nUntil it's gone, I can never find peace\nBrace my whole life just to be\nWe don't gotta be in love, no\nI don't gotta be the one, no\nI just wanna be one of your girls\nTonight (tonight)\nWe don't gotta be in love, no\nI don't gotta be the one, no (oh)\nI just wanna be one of your girls\nTonight (ooh), oh",
-      "listen": 1575826168
-    },
-    "8": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738089714/3ba2b8ab-2149-401d-ac28-04cb82ac7f92.png",
-      "title": "Old Town Road",
-      "categoryId": "5",
-      "singerId": [
-        "6"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738089711/Old-Town-Road_ahyumh.mp3",
-      "lyric": "[Refrain: Billy Ray Cyrus]\nYeah, I'm gonna take my horse to the old town road\nI'm gonna ride 'til I can't no more\nI'm gonna take my horse to the old town road\nI'm gonna ride 'til I can't no more\n(Kio, Kio)\n\n[Verse 1: Lil Nas X]\nI got the horses in the back\nHorse tack is attached\nHat is matte black\nGot the boots that's black to match\nRidin' on a horse, ha\nYou can whip your Porsche\nI been in the valley\nYou ain't been up off that porch, now\n\n[Chorus: Lil Nas X]\nCan't nobody tell me nothin'\nYou can't tell me nothin'\nCan't nobody tell me nothin'\nYou can't tell me nothin'\n\n[Verse 2: Lil Nas X]\nRidin' on a tractor\nLean all in my bladder\nCheated on my baby\nYou can go and ask her\nMy life is a movie\nBull ridin' and boobies\nCowboy hat from Gucci\nWrangler on my booty\n\n[Chorus: Lil Nas X]\nCan't nobody tell me nothin'\nYou can't tell me nothin'\nCan't nobody tell me nothin'\nYou can't tell me nothin'\n\n[Refrain: Lil Nas X]\nYeah, I'm gonna take my horse to the old town road\nI'm gonna ride 'til I can't no more\nI'm gonna take my horse to the old town road\nI'm gonna ride 'til I can't no more\n\n[Verse 3: Billy Ray Cyrus]\nHat down, cross town, livin' like a rockstar\nSpent a lot of money on my brand new guitar\nBaby's got a habit: diamond rings and Fendi sports bras\nRidin' down Rodeo in my Maserati sports car\nGot no stress, I've been through all that\nI'm like a Marlboro Man so I kick on back\nWish I could roll on back to that old town road\nI wanna ride 'til I can't no more\n\n[Outro: Lil Nas X & Billy Ray Cyrus]\nYeah, I'm gonna take my horse to the old town road\nI'm gonna ride 'til I can't no more\nI'm gonna take my horse to the old town road\nI'm gonna ride 'til I can't no more",
-      "listen": 1052132616
-    },
     "9": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738090228/fdb5cc9e-9223-43f5-be50-5a8d7de53110.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742116432/fdb5cc9e-9223-43f5-be50-5a8d7de53110.jpg",
       "title": "I've got my eyes on you",
       "categoryId": "4",
       "singerId": [
@@ -315,53 +136,8 @@
       "lyric": "If you dance, I'll dance\nAnd if you don't, I'll dance anyway\nGive peace a chance\nLet the fear you have fall away\nI've got my eye on you\nI've got my eye on you\nSay yes to heaven\nSay yes to me\nSay yes to heaven\nSay yes to me\nIf you go, I'll stay\nYou come back, I'll be right here\nLike a barge at sea\nIn the storm, I stay clear\n'Cause I've got my mind on you\nI've got my mind on you\nSay yes to heaven\nSay yes to me\nSay yes to heaven\nSay yes to me\nIf you dance I'll dance\nI'll put my red dress on again\nAnd if you fight, I'll fight\nIt doesn't matter, now it's all gone\nI've got my mind on you\nI've got my mind on you\nSay yes to heaven\nSay yes to me\nSay yes to heaven\nSay yes to me\nI've got my eye on you\nI've got my eye on you\nI've got my eye on you\nI've got my mind on you",
       "listen": 367486007
     },
-    "10": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738090446/955e590c-a137-4640-a232-837758f40e78.png",
-      "title": "Take Me To Church",
-      "categoryId": "7",
-      "singerId": [
-        "8"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738090739/take_me_to_church_feed3g.mp3",
-      "lyric": "My lover's got humour\nShe's the giggle at a funeral\nKnows everybody's disapproval\nI should've worshipped her sooner\nIf the Heavens ever did speak\nShe is the last true mouthpiece\nEvery Sunday's getting more bleak\nA fresh poison each week\n'We were born sick,' you heard them say it\nMy church offers no absolutes\nShe tells me 'worship in the bedroom'\nThe only heaven I'll be sent to\nIs when I'm alone with you\nI was born sick, but I love it\nCommand me to be well\nAmen. Amen. Amen\n\nTake me to church\nI'll worship like a dog at the shrine of your lies\nI'll tell you my sins and you can sharpen your knife\nOffer me that deathless death\nGood God, let me give you my life\n\nTake me to church\nI'll worship like a dog at the shrine of your lies\nI'll tell you my sins and you can sharpen your knife\nOffer me that deathless death\nGood God, let me give you my life\n\nIf I'm a pagan of the good times\nMy lover's the sunlight\nTo keep the Goddess on my side\nShe demands a sacrifice\nTo drain the whole sea\nGet something shiny\nSomething meaty for the main course\nThat's a fine looking high horse\nWhat you got in the stable?\nWe've a lot of starving faithful\nThat looks tasty\nThat looks plenty\nThis is hungry work\n\nTake me to church\nI'll worship like a dog at the shrine of your lies\nI'll tell you my sins and you can sharpen your knife\nOffer me that deathless death\nGood God, let me give you my life\n\nTake me to church\nI'll worship like a dog at the shrine of your lies\nI'll tell you my sins and you can sharpen your knife\nOffer me that deathless death\nGood God, let me give you my life\n\nNo masters or kings when the ritual begins\nThere is no sweeter innocence than our gentle sin\nIn the madness and soil of that sad earthly scene\nOnly then I am human\nOnly then I am clean\nAmen. Amen. Amen\n\nTake me to church\nI'll worship like a dog at the shrine of your lies\nI'll tell you my sins and you can sharpen your knife\nOffer me that deathless death\nGood God, let me give you my life\n\nTake me to church\nI'll worship like a dog at the shrine of your lies\nI'll tell you my sins and you can sharpen your knife\nOffer me that deathless death\nGood God, let me give you my life",
-      "listen": 2875575322
-    },
-    "11": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738090896/a0cbdf72-f706-45c1-b06e-2924090e679b.png",
-      "title": "Die With A Smile",
-      "categoryId": "5",
-      "singerId": [
-        "9",
-        "10"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738503680/Die_with_a_smile_f3oc1g.mp3",
-      "lyric": "I, I just woke up from a dream\nWhere you and I had to say goodbye\nAnd I don't know what it all means\nBut since I survived, I realized\nWherever you go, that's where I'll follow\nNobody's promised tomorrow\nSo I'ma love you every night like it's the last night\nLike it's the last night\nIf the world was ending\nI'd wanna be next to you\nIf the party was over\nAnd our time on Earth was through\nI'd wanna hold you just for a while\nAnd die with a smile\nIf the world was ending\nI'd wanna be next to you\nOoh, lost, lost in the words that we scream\nI don't even wanna do this anymore\n'Cause you already know what you mean to me\nAnd our love's the only one worth fighting for\nWherever you go, that's where I'll follow\nNobody's promised tomorrow\nSo I'ma love you every night like it's the last night\nLike it's the last night\nIf the world was ending\nI'd wanna be next to you\nIf the party was over\nAnd our time on Earth was through\nI'd wanna hold you just for a while\nAnd die with a smile\nIf the world was ending\nI'd wanna be next to you\nRight next to you\nNext to you\nRight next to you\nOh-oh\nIf the world was ending\nI'd wanna be next to you\nIf the party was over\nAnd our time on Earth was through\nI'd wanna hold you just for a while\nAnd die with a smile\nIf the world was ending\nI'd wanna be next to you\nIf the world was ending\nI'd wanna be next to you\nI'd wanna be next to you",
-      "listen": 1683229871
-    },
-    "12": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738091444/b14f2a26-da99-43e3-a62c-bd763441f17c.png",
-      "title": "Time Machine",
-      "categoryId": "4",
-      "singerId": [
-        "12"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738091979/time-machine_prr8lh.mp3",
-      "lyric": "Staring at stars, watching the moon\nHoping that one day they'll lead me to you\nWait every night 'cause if a star falls\nI'll wish to go back to the times that I loved\nWhy do the stars shine so bright in the sky\nIf most of the people are sleeping at night?\nWhy do we only have one chance at life?\nI wish I could go back in time\nPictures remind me of things I forgot\nBut also of all of the things that I've lost\nCan't get them back, they won't fall from above\nSo I try to forget all the times that I loved\nWhy do we remember beautiful lies?\nWe end up regretting them most of our lives\nWhy do we only have one chance to try?\nI wish I could go back in time\nEach time I fall asleep\nI always see you there in my dreams\nIt's like going back in a time machine\nI know when I wake up, your time with me will end\nSo don't let me fall asleep\nI don't wanna meet you there in my dreams\nI know that we'll never build a time machine\nIt's time for me to try and wake up again\nI fall asleep\nBut honestly\nI wanna see you in my dreams\nI'm trying to wake up again",
-      "listen": 17565974
-    },
-    "13": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738091718/90717e38-0e84-4536-a61f-ca6a3f5773d0.png",
-      "title": "Ta Đã Từng Yêu Nhau Chưa?",
-      "categoryId": "5",
-      "singerId": [
-        "13"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738091706/Ta_%C4%90%C3%A3_T%E1%BB%ABng_Y%C3%AAu_Nhau_Ch%C6%B0a_hzddti.mp3",
-      "lyric": "Ta đã từng yêu nhau chưa\nSao mọi chuyện như vậy\nSao mọi điều cố gắng cũng không mang em về lại như xưa\nTa đã từng yêu nhau chưa\nTrong một chiều bão giông\nEm vội vàng quay gót chân đi để anh với nỗi cô đơn hwi.whi\nEm giống cơn gió mùa hạ\nĐến bên cánh đồng nhỏ\nKhẽ đưa nhành hoa rồi bay thế thôi\nVà mưa rơi ướt con đường\nTôi em giờ đã đôi đường\nCó ai còn thương mà chờ mãi thôi\nChẳng còn thanh âm những bản tình ca\nChẳng còn những giấc mơ đang lên màu\nChỉ còn những cuốn phim mang nỗi nhớ anh mơ về em\nVậy mà đâu hay chỉ riêng mình anh\nDại dột giữ mãi yêu thương không thành\nMột hai ba bốn năm bên cạnh để còn lại gì\nVậy thì ta đã từng yêu nhau chưa\nSao mọi chuyện như vậy\nSao mọi điều cố gắng cũng không mang em về lại như xưa\nTa đã từng yêu nhau chưa\nTrong một chiều bão giông\nEm vội vàng quay gót chân đi để anh với nỗi cô đơn\nLàm sao để quên một người mà ta vốn thương rất nhiều\nLàm sao để nỗi cô đơn này đừng mang tên em\nHãy thật hạnh phúc em nhé dẫu mai này không bên nhau\nAnh xin giữ trong tim những kỉ niệm đẹp về em\nTa đã từng yêu nhau chưa\nAi còn chờ dưới mưa\nCâu chuyện về ai đúng ai sai đến nay chắc không còn nữa\nTa đã từng yêu nhau chưa\nVẫn là câu hỏi thừa\nBắt đầu mới kết thúc nên xem như ta đã từng",
-      "listen": 4309617
-    },
     "14": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738091892/ec26a9ac-a0c7-469a-9295-bb264447afd6.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742116807/ec26a9ac-a0c7-469a-9295-bb264447afd6.jpg",
       "title": "Slow Dancing In The Dark",
       "categoryId": "5",
       "singerId": [
@@ -372,7 +148,7 @@
       "listen": 1449723737
     },
     "15": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738092185/4b9cbaf8-c879-427a-8474-a4e30829fdce.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742116818/4b9cbaf8-c879-427a-8474-a4e30829fdce.jpg",
       "title": "23:40",
       "categoryId": "2",
       "singerId": [
@@ -382,43 +158,8 @@
       "lyric": "Liệu khói thuốc có giúp em xoa dịu được con tim em\nLiệu nước mắt có cuốn đi những tan vỡ mà em muốn quên\nTrời đã sắp sáng sao đôi mắt em chỉ thấy bóng đêm\nNày em ơi em ngủ đi, tình yêu này em tiếc chi?\nTiếng hát giữa đêm, vì một ai nước mắt ướt thêm\nChờ một người đã mãi rời xa khỏi đời em?\nTìm chi hạnh phúc của người xa khỏi đời em\nNhìn giọt mưa rơi bên hiên nhà\nLòng cảm thấy đau đớn, xót xa\nBởi vì ngày em đến mưa ngoài hiên đã ngừng rơi\nVà rồi ngày em đi mưa lòng anh vẫn còn rơi (bae)\nMọi chuyện cũng sẽ qua (cũng sẽ qua)\nLỗi lầm cũng thứ tha (cũng thứ tha)\nMỗi tội hai chúng ta khi cách xa\nVẫn chưa thôi xót xa chuyện đã qua\nDặn lòng thôi vấng vươn thôi nhớ thương\nTự tìm đến sẽ đi, lưu luyến chi\nRồi người khác tốt hơn, xin cám ơn\nNhững ngày đã yêu, xin hãy quên\nGiọt mưa ướt vai tôi hay là nước mắt em rơi?\nÔm lấy những yêu thương lần cuối trước khi rời\nNhòe mascara, nụ cười vẫn ở trên môi\nKhi lần cuối bước bên nhau (cay đắng nhưng không đau)\nVà em bước quay đi để lại hương tóc trên vai tôi\nLau vết son môi, để làn khói cuống lấy em rồi\nLàm sao?\nĐể em đừng khóc\nTiếng hát giữa đêm, vì một ai nước mắt ướt thêm\nChờ một người đã mãi rời xa khỏi đời em?\nTìm chi hạnh phúc của người xa khỏi đời em\nNhìn giọt mưa rơi bên hiên nhà\nLòng cảm thấy đau đớn, xót xa\nBởi vì ngày em đến mưa ngoài hiên đã ngừng rơi\nVà rồi ngày em đi mưa lòng anh vẫn còn rơi\nCăn phòng tối giờ đây chỉ mỗi em ngồi\nNhững vết cắt, cơn đau em đã quen rồi\nMáu đã tuôn, tay vẫn chưa buông\nDù tim thì đau nhưng đã không còn buồn\nAnh chờ em còn em chờ ai quay về?\nVì sao lại quên? Sao lại buông câu thề?\nEm vì ai thân hình dần xác xơ?\nVà em không sai khi mơ về một giấc mơ\nMơ về nơi mà không còn trốn bộn bề\nKhông còn bao buồn đau chìm sâu thật lâu chỉ mong ai đó vỗ về\nKhông còn những làn khói để nơi bờ môi tìm lại nụ hôn vụng về\nMột thuở tình yêu còn đâu?\nBình yên còn đâu?\nGiờ không còn nhau bae\nCòn ở đây\nSau lưng em anh vẫn đứng đây chờ\nHãy nhìn về đây\nĐôi bàn tay vẫn mong ngóng em về\nNhưng mà tiếng hát giữa đêm thâu\nMưa làm nước mắt em thêm ngâu\nAnh vẫn đứng đây mà\nChỉ cần em nói với anh là\nBabe\nCome to me",
       "listen": 8103219
     },
-    "16": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738092554/85b6a39e-4f26-4ba9-809f-21d919ad192c.png",
-      "title": "Hãy cho con chịu đau khổ thay em (remix)",
-      "categoryId": "3",
-      "singerId": [
-        "14",
-        "15"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738094034/H%C3%A3y_cho_con_ch%E1%BB%8Bu_%C4%91au_kh%E1%BB%95_thay_em_hzpifn.mp3",
-      "lyric": "@itz_cogn:\nHmmm, anh nói anh yêu em á? \n thôi, không đáng đâu! \n mình chia tay rồi mà ? \n anh phải hiểu ý em chứ \n đừng có bi lụy như thế \n em mong sau này anh sẽ sống hạnh phúc \n đừng vì em mà bỏ lỡ bất cứ tình cảm nào mà anh xứng đáng có \n sống vì anh đi, coi như em xin anh đấy \n em thương anh nhất mà \n\nLil Liem: \n anh ước cơn mơ của anh sẽ thấy em, thấy đôi mi anh lấm lem \n dù biết cơn đau sẽ khó quên, anh để tên em trong lãng quên \n\n anh biết tất cả mọi thứ thật là trơ trọi \n cô độc trong đêm tối \n em đi, em không nói \n tim của anh đau nhói \n\n chìm sâu vào trong đôi mắt \n anh thấy mình có nút thắt \n vì em chẳng giống như xưa \n chạy theo em dưới cơn mưa \n\n chìm sâu vào trong đôi mắt (trả lại giọt nước mắt) \n anh thấy mình có nút thắt (đâu còn đôi tay nắm) \n vì em chẳng giống như xưa (vì em chẳng giống như xưa) \n chạy theo em dưới cơn mưa (chạy theo em những cơn mưa) \n\nKIDDI: \n trả lại giọt nước mắt \n đâu còn đôi tay nắm \n vì em chẳng giống như xưa \n chạy theo em những cơn mưa \n\nKewwi: \n những dòng cảm xúc ấy \n anh biết là không đáng để mình giữ lấy \n cố gắng để rời xa mà từng ngày cứ thấy \n em đi bên nồng say cùng một người khác đấy ye ye \n như một dòng lốc xoáy \n từng cơn sao cứ đau lại làm mình cuốn lấy ye ye \n phóng con xe gắn máy \n thành phố kia có em nhưng không thể nắm lấy \n\n nước mắt rơi ngược dòng \n anh đã cố gắng cho chính em bằng lòng (chính em) \n nhốt tấm thân vào phòng \n chẳng thể sắp xếp hết vụn vỡ bên trong (vụn vỡ) \n giờ lại thêm những u sầu và thêm những đau đầu \n làm anh chẳng thể ngủ \n em đã ra đi bảo anh chẳng ra gì \n đưa anh vào cơn loop \n\n baby chắc anh nên quên \n một hình bóng rất chi thân quen \n chẳng tỉnh táo giữa bao hơi men \n chỉ muốn đến bên ôm em \n tại vòng tay người mà anh được sưởi ấm \n baby ơi anh vẫn nhớ em nhiều lắm \n vì điều chi mà tình yêu mình chìm đắm \n\nKIDDI: \n anh không mong tình yêu này sẽ biến tan \n những nỗi đau trước kia anh chẳng thể mang \n anh chỉ mong là anh được em thứ tha, em thứ tha \n\n và quá nhiều đêm, nằm mơ về em thôi \n những ngọt ngào giờ đã rời xa khỏi chốn đây thật rồi \n chốn đây thật rồi.. \n\n baby, anh không muốn phải xa ra khỏi vòng tay của em, oh baby \n ký ức về ngày xưa của anh và em, ai đã đến lấy đi \n anh biết anh đã sai \n cho đến khi gần đi, anh vẫn chờ em, my girl, i'm sorry (i'm sorry, i'm sorry) \n\n anh vẫn nhớ về em but u don't know \n hai trái tim màu đen, vết nứt kia chẳng còn ai khâu \n anh vẫn ở đằng sau, luôn kế em khi ai làm đau \n mọi thứ rồi sẽ trôi những ta chẳng còn bên cạnh nhau \n\n@hwuix: \n (baby i'm sorry) \n thôi, anh ngủ đi nhé (baby i'm sorry) \n em không muốn tiếp tục nữa, tình cảm của chúng mình bây giờ không còn như xưa nữa (baby i'm sorry) \n nó hết từ lâu rồi anh ạ.. chỉ còn anh ở lại mãi với quá khứ thôi (baby i'm sorry) \n em ngủ đây (baby i'm sorry) \n\nKIDDI: \n nỗi đau, giờ nó cũng đã cuốn anh \n trôi theo những cơn gió \n mọi chuyện giờ đã khó \n\nLil Liem: \n sau tất cả, anh chỉ muốn em là của anh thôi (bae, just lemme know, ooh) \n anh muốn đôi môi, ghì chặt đôi môi (ooh, ooh) \n anh muốn hai ta ôm nhau vào mỗi tối (bae, just lemme know, ooh) \n anh đến để xoa dịu nỗi đau của em mà.. (ooh, ooh) \n\n thưa ngài, xin ngài hãy cho con chịu đau khổ thay em (anh đâu muốn đôi ta phải quên đi) \n (đâu còn đôi tay nắm) \n xin ngài.. hãy cho.. em yên giấc vào lúc đêm đen (giọt nước mắt kia vẫn còn trên mi) (đâu còn đôi tay nắm) \n xin ngài hãy gạch tên những nỗi buồn ra khỏi trong em (anh đâu muốn phải quên đi) \n xin ngài hãy để cho một mình con đau đớn thay em.. \n",
-      "listen": 2462774
-    },
-    "17": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738129585/001b4a9b-27d7-4142-b5cc-fac618f55e0e.png",
-      "title": "Khi Em Lớn",
-      "categoryId": "5",
-      "singerId": [
-        "16",
-        "17"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738129576/khi_em_lon_j9wcyi.mp3",
-      "lyric": "Khi em lớn\nVui biết bao vì được đi muôn nơi\nKhông phải đi về nhà trước mười giờ tối hmm\nEm lớn rồi mà\nKhi em lớn\nTrước mắt em là bầu trời trong xanh\nEm cứ vô tư chạy đi thật nhanh\nNào có biết rằng\nNgày em lớn\nEm sẽ ngã đau hơn bây giờ\nĐời đâu giống đôi vần thơ\nEm nhận ra thế gian ai cũng làm ngơ\nKhóc với ai bây giờ\nVì sẽ chẳng có ai lắng nghe điều không có ai muốn nghe em lặng thinh\nHuh huh huh\nKhi em lớn\nSẽ có lúc em nhận ra em yêu\nXây biết bao hy vọng đến người em ước sau này\nSẽ về một nhà\nKhi em lớn\nSẽ có hơn đôi lần mà em trao\nSẽ có hơn đôi lần mà em tin\nNào có biết rằng\nNgày em lớn\nEm lại lỡ tin sai một người\nLời gian dối trên vành môi\nEm nhận ra trái tim em vỡ làm đôi\nKhóc với ai bây giờ\nVì sẽ chẳng có ai lắng nghe điều không có ai muốn nghe em lặng thinh\nHuh huh huh\nKhi em lớn đường về nhà sao quá xa\nCha mẹ đây nhưng sao thật khó để nói ra\nCon thất bại rồi\nChỉ muốn bé lại thôi\nHuh\nEm à hah huh\nEm sẽ ngã thêm đôi ba lần\nSẽ xây xước đôi bàn chân\nNhưng rồi em sẽ quen thôi chớ ngại ngần\nDẫu em có một mình\nChỉ cần em vẫn luôn lắng nghe điều không có ai muốn nghe\nHuh\nEm cứ lắng nghe em cứ lắng nghe\nHuh\nHuh huh huh",
-      "listen": 24925005
-    },
-    "18": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738129664/2838f096-3a99-4741-9bf6-bacdea92119b.png",
-      "title": "Mất Kết Nối",
-      "categoryId": "5",
-      "singerId": [
-        "18"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738129715/Mat_Ket_Noi_utjvz4.mp3",
-      "lyric": "Nỗi nhớ em trong đêm thật dài\nThêm lý do cho anh tồn tại\nĐể lại chạm vào bờ môi ấy dịu dàng\nLời thì thầm ngọt ngào bên tai\nTa mất nhau thật rồi em ơi\nTan vỡ hai cực đành chia đôi\nAnh sẽ luôn ghi nhớ em trong từng tế bào\nVậy mà dừng lại như thế sao\nYe... chẳng cần vật chất, chẳng cần spotlight\nChỉ cần vài nốt nhạc hoà cùng cây mic\nTừ chối cuộc vui đi về một nơi xa\nVì bận ngồi đây thả thêm một vài câu ca\nGiữa đời, có được mấy\nD-O-M-I-C\nNhưng có lẽ giờ này, em đã ngủ say\nCòn anh thì vẫn mang\nNỗi nhớ em trong đêm thật dài\nThêm lý do cho anh tồn tại\nĐể lại chạm vào bờ môi ấy dịu dàng\nLời thì thầm ngọt ngào bên tai\nTa mất nhau thật rồi em ơi\nTan vỡ hai cực đành chia đôi\nAnh sẽ luôn ghi nhớ em trong từng tế bào\nVậy mà dừng lại như thế sao\nCuộc gọi nhỡ cho em hàng đêm, đến tận 200 lần\nDòng ký ức trong em về anh, bây giờ đang phai dần\nQuay gót rời đi, không để lại gì\nBay vút qua tầm tay\nSao còn vương vấn để làm gì?\nBọn mình kết thúc thật rồi, hết sức thật rồi\nPhải không em ơi?\nChuyện tình có khúc phải lòng, có lúc phải rời\nVậy đến lúc rồi\nVà có lẽ giờ này, em đã ngủ say\nCòn anh thì vẫn mang\nNỗi nhớ em trong đêm thật dài\nThêm lý do cho anh tồn tại\nĐể lại chạm vào bờ môi ấy dịu dàng\nLời thì thầm ngọt ngào bên tai\nTa mất nhau thật rồi em ơi\nTan vỡ hai cực đành chia đôi\nAnh sẽ luôn ghi nhớ em trong từng tế bào\nVậy mà dừng lại như thế sao\nTrong anh hay là trong em đã đổi thay bao nhiêu suy nghĩ\nYêu thương nay còn đâu\nAnh còn yêu, nghe hơi vô lý\nTa mất kết nối thật rồi\nĐã mất kết nối thật rồi em ơi\nTrong anh hay là trong em đã đổi thay bao nhiêu suy nghĩ\nYêu thương nay còn đâu\nAnh còn yêu, nghe hơi vô lý\nTa mất kết nối thật rồi\nĐã mất kết nối thật rồi em ơi\nTa mất nhau thật rồi em ơi\nTan vỡ hai cực đành chia đôi\nAnh sẽ luôn ghi nhớ em trong từng tế bào\nVậy mà dừng lại như thế sao",
-      "listen": 48431342
-    },
     "19": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738129904/14aef65c-c795-4a47-8574-55b9a51f825e.png",
+      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1742117037/14aef65c-c795-4a47-8574-55b9a51f825e.jpg",
       "title": "The Night We Met",
       "categoryId": "7",
       "singerId": [
@@ -427,41 +168,6 @@
       "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738129861/The-Night-We-Met_tsm3at.mp3",
       "lyric": "I am not the only traveler\nWho has not repaid his debt\nI've been searching for a trail to follow again\nTake me back to the night we met\nAnd then I can tell myself\nWhat the hell I'm supposed to do\nAnd then I can tell myself\nNot to ride along with you\nI had all and then most of you\nSome and now none of you\nTake me back to the night we met\nI don't know what I'm supposed to do\nHaunted by the ghost of you\nOh, take me back to the night we met\nWhen the night was full of terrors\nAnd your eyes were filled with tears\nWhen you had not touched me yet\nOh, take me back to the night we met\nI had all and then most of you\nSome and now none of you\nTake me back to the night we met\nI don't know what I'm supposed to do\nHaunted by the ghost of you\nTake me back to the night we met",
       "listen": 2724826495
-    },
-    "20": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738130038/b56661fb-9e47-4ecb-a006-a863e1b0f655.png",
-      "title": "Lưu Luyến Sau Chia Tay (Lofi Ver)",
-      "categoryId": "2",
-      "singerId": [
-        "21",
-        "22"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738130033/LuuLuyenSauChiaTay_yfpkta.mp3",
-      "lyric": "Mới đây thôi đôi tay vẫn còn nắm chặt lắm,\nVừa cách xa thôi em chỉ cười và xem nhau như người lạ\nChạm vào trong những hoài ức cố quên đi những thói quen\nĐôi tay đã buông xa rồi chỉ mong em được vui,\nLạc lõng giữa dòng người sao anh cứ ôm những bóng hình em\nĐặt vài câu hỏi an ủi lòng bớt nhớ em.\nChia sẻ những thứ anh vẫn thường làm khi có em cho cô gái anh vừa quen\nNhẹ nhàng nâng lên vài điếu thuốc những ngày mưa đêm\n[Chorus 1]\nEm có quen người nào chưa sao mỗi tối anh chẳng thấy ai đón đưa\nAnh chẳng thể yêu thêm ai nữa vì em vì những ngày xưa\nThành phố như chật chội hơn sao chẳng thấy yêu thương mà chỉ mình anh Cô đơn\nChơi vơi giữa đêm em à, sao nỡ rời xa.\n[Rap 1]\nĐi qua những ngày mưa\nEm ơi đã về chưa\nChỉ còn lại kỷ niệm cùng vài tỉ chuyện em của ngày xưa\nAnh vẫn chưa một lần được nói\nCũng chẳng níu được nổi\nHạnh phúc rồi sẽ tắt đi trước khi mất đi đã có được rồi\nAnh đi thật chậm, nhìn lại nơi ta từng đi qua\nHình bóng em vẫn còn đang thấy trên từng trang giấy anh còn ghi ra\nTrong lòng này như là tiết cuối sau cùng tiếc nuối chẳng ngừng suy nghĩ\nGặp lại nhau chẳng biết nói chào chỉ biết cúi đầu thôi người tri kỷ\nỞ trong phòng tối\nYêu em bằng cả trái tim lại xa vì lời nói\nMột lần nhất thời nên mất rồi\nTâm tư mơ màng về những ngày cuối\nTrời thì tối đen trong lòng này chẳng thể nói lên\nChỉ còn lại trong lòng cố chấp vẫn là cố lấp đi những thói quen\nEm có quên người nào đó chưa\nNắm tay em dù trời có mưa\nĐưa em đi qua những ngày nắng sao chuỗi ngày vắng chẳng còn đón đưa\nAnh cố gắng nhắm đôi mắt lại không muốn nhắc lại mong một mai khác\nVì trái tim chẳng thay đổi nên chỉ yêu mỗi em chẳng một ai khác\n[Verse 2]\nChia sẻ những thứ anh vẫn thường làm khi có em cho cô gái anh vừa quen\nVì còn thương nhưng ngại lắm đấy, mình vừa chia tay\nNhững dòng tin nhắn anh vẫn thường đọc khi đã xa nên mới kịp nhận ra\nLà chẳng trân trọng em bao ngày qua\n[Chorus 2]\nEm có quen người nào chưa sao mỗi tối anh chẳng thấy ai đón đưa\nAnh chẳng thể yêu em thêm ai nữa vì em vì những ngày xưa\nThành phố như chật chội hơn sao chẳng thấy yêu thương mà chỉ mình anh vấn vương\nChơi vơi giữa đêm em à, sao nỡ rời xa\n[Bridge]\nNgày em ra đi mang những thói quen xưa đọng lại trên những vết mưa\nMột phút im lặng sang một giây đổ vỡ\nMưa kia đã mang những ân tình anh đã mất em rồi thôi rồi chỉ có nơi đây mình tôi\n[Chorus 3]\nEm có quen người nào chưa sao mỗi tối anh chẳng thấy ai đón đưa\nAnh chẳng thể yêu em thêm ai nữa vì em vì những ngày xưa\nThành phố như chật chội hơn sao chẳng thấy yêu thương mà chỉ mình anh vấn vương\nChơi vơi giữa đêm em à, sao nỡ rời xa.",
-      "listen": 5602778
-    },
-    "21": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738131507/09fa6b76-9073-43e7-a132-f9deb129fbcd.png",
-      "title": "Cho tôi lang thang",
-      "categoryId": "3",
-      "singerId": [
-        "25",
-        "28"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738131543/ChoToiLangThang-NgotDen_zkugbt.mp3",
-      "lyric": "Nơi nhân gian sum vầy\nEm có nghe thấy\nTiếng réo gọi tâm hồn\nNgân vang đâu đây\nNơi nhân gian sum vầy\nEm có nghe thấy\nTiếng réo gọi tâm hồn (yeah)\nNgân vang đâu đây (ah)\nNgày lang thang\nTrong cơn mơ không veston không cà vạt\nKhông nhiều than thở dẫu mình hay mơ về Đà Lạt\nĐi cho vai áo bạc màu những hành trình dài\nĐể khi ta thay áo mới nhìn lại đã thành hình hài\nVà không có đường nào khó chỉ có chân ngại lối xa\nCuối con đường dần ló mặt trời lên xua màn tối qua\nNắng ươm ta màu đời mai ta mọc thành cây cao\nVà khi gió ru ca cội nguồn ôi mình hôm qua đây sao (yeah)\nVẫn bước đi cười trên môi làm giấy thông hành\nGói gém câu ca vào trong hành trang vì thiếu nó thấy không đành\nChất thêm chút bình yên gói lại bằng tình duyên\nTa đi tìm mắt bão đời vì chỉ từ trong cơn bão mới nhẹ lòng mình yên\nCho riêng ta lang thang thôi để nhạc đời không lạc điệu\nLòng người sâu vời như bầu trời ai đo đạc liệu\nXa bao nhiêu giữa con đường vắng nắng tan hoang\nVà ngày nào còn khát thì ngày đó ta còn lang thang\nNơi nhân gian sum vầy (yeah ah)\nEm có nghe thấy\nTiếng réo gọi tâm hồn\nNgân vang đâu đây\nNơi nhân gian sum vầy\nEm có nghe thấy (yeah)\nTiếng réo gọi tâm hồn\nNgân vang đâu đây (ah)\nNếu em hỏi cho đến bây giờ tại sao anh vẫn lông bông\nVì anh muốn khoác bụi lên mình cho tâm hồn đỡ tồng ngồng\nVì cuộc đời này công bằng cũng chỉ một lần để sống\nNgười ta mơ nhà mơ cửa còn anh mơ núi mơ sông\nRồi cũng sẽ đến một ngày tóc như mây mờ trắng xoá\nRồi sẽ tiếc khi trở về già tuổi đời bây giờ ngắn quá\nThanh xuân ngủ vùi chăn ấm đời như mãi mùa đông\nNên anh trải đời trong nắng gió như con thú hoang sổ lồng\nĐường nào đi được hết trán nào còn nhăn mãi\nMuốn cùng em hút chung điếu thuốc để khói mù cả Căng Chải\nVì đất nước mình còn lạ cần chi đâu nước ngoài\nĐặt chân lên tất cả mọi miền là ước mơ ta ước hoài\nChẳng cho mình là lãng tử đã đi được mấy đâu\nChẳng cho mình là nghệ sĩ đã viết được mấy câu\nChẳng tự do đến mức buông lơi như DSK\nNhưng nếu một ngày đôi chân ngừng lại thì thà anh đi chết ngay yeah\nNơi nhân gian sum vầy\nEm có nghe thấy\nTiếng réo gọi tâm hồn\nNgân vang đâu đây\nNơi nhân gian sum vầy\nEm có nghe thấy\nTiếng réo gọi tâm hồn\nNgân vang đâu đây (yeah)\nĐi với anh đến cùng trời cuối đất\nVà để nếm yêu thương không dùng lời muối mật\nMình sống chẳng tự cao hay việc gì phải cúi mặt ờ\nĐi đi em còn do dự trời tối mất (yeah)\nVà anh đưa em đi đến nơi ít người qua\nNơi vầng trăng mỏng cong veo tít trời xa\nNơi những vì sao chẳng phải nép sau nóc nhà và\nNơi đặt lưng xuống đầu chẳng nặng chuyện ngày qua\nCó đường cong như mi em\nCó đường thẳng như sống mũi\nCó đường ngắn có đường dài\nĐi về đâu ai đoán nổi\nAnh sẽ đưa em qua hết\nCho tóc bạc đi vì bụi\nVì có gian khó có mệt nhoài ta mới tạc ghi vào cội\nĐi với anh và tạm quên chuyện tương lai\nGiờ đây quan trọng với anh là\nTóc em còn đương dài\nMôi em còn nồng thắm\nVà mắt em như sương mai\nĐi thật xa để khi trở còn biết mình thương ai\nCho tôi đi theo với (cho tôi đi theo)\nNơi em đi về (ngày lang thang)\nVề nơi đẹp trời hơn (Ngọt)\nTràn đầy đam mê (yeah)\nTôi quên đi năm tháng\nYêu thương không còn\nCần thêm mùi rượu vang\nVà đồ ăn ngon\nVì ngày lang thang vẫn còn dài nên ta không kéo ga thật sâu (nơi nhân gian sum vầy) (không kéo ga thật sâu)\nVì đôi chân và mặt đường vốn dĩ đã không xa được nhau (em có nghe thấy tiếng réo gọi tâm hồn)\nVì lá thì rơi sương thì đọng đá bất động người thì đi (ngân vang đâu đây)\nNên tóc còn xanh máu còn nóng nằm một chỗ để làm chi (nơi nhân gian sum vầy em có nghe thấy)\nVì lá thì rơi sương thì đọng đá bất động người thì đi (tiếng réo gọi tâm hồn)\nNên tóc còn xanh máu còn nóng nằm một chỗ để làm chi (ngân vang đâu đây)\nNằm một chỗ để làm chi\nVà nằm một chỗ để làm chi\nVà nằm một chỗ để làm chi\nVà nằm một chỗ để làm chi\nVà nằm một chỗ để làm chi",
-      "listen": 42655071
-    },
-    "22": {
-      "image": "https://res.cloudinary.com/dlhxktrw3/image/upload/v1738131638/f136a638-13a5-4692-82e5-9c0bb20a0ab0.png",
-      "title": "Rồi ta sẽ ngắm pháo hoa cùng nhau",
-      "categoryId": "5",
-      "singerId": [
-        "32"
-      ],
-      "audio": "https://res.cloudinary.com/dlhxktrw3/video/upload/v1738131657/RoiTaSeNgamPhaoHoaCungNhau_q6olww.mp3",
-      "lyric": "Người đón em đến bên đời là điều tuyệt nhất để khiến em cười\nNgười cứ như ô che mưa, như mây bay qua cho ngày trong xanh\nỞ đây có anh này, em thật nhỏ bé trong chiếc ôm này\nẤm hơn chăn mà, còn thơm hơn hoa mà, sao em nỡ rời xa?\nRồi ta sẽ ngắm pháo hoa cùng nhau trên tầng thượng phía bên kia dòng sông\nVạn lời chúc ấm êm cho nhau là sẽ thành đôi sau vài cái xuân\nMong trời sẽ thương em, thương anh và cho đôi mình mãi bên nhau dài lâu\nCho dù thế gian kia cuồng quay trăm bộn bề, ta vẫn không cách rời, huh-huh-uh\nThấy anh đứng đây rồi, mắt cười cong khoé mi hí đây rồi\nCàng đắm say thế nên em lại sợ một mai mình rời xa nhau\nAnh thơm vào má em này, cho chừa cái thói nói vớ vẩn này\nMặt ngây ngô ra rồi, còn anh thì đứng cười\nĐây có phải điều tuyệt nhất?\nRồi ta sẽ ngắm pháo hoa cùng nhau trên tầng thượng phía bên kia dòng sông\nVạn lời chúc ấm êm cho nhau là sẽ thành đôi sau vài cái xuân\nMong trời sẽ thương em, thương anh và cho đôi mình mãi bên nhau dài lâu\nCho dù thế gian kia cuồng quay trăm bộn bề, ta vẫn không cách rời\nDù mai Mặt Trời không chiếu sáng trên hành tinh này\nThì em (thì em) vẫn sẽ tìm anh bằng trái tim này, uh-oh\nDù mai đời người dẫu có cách ngăn tình ta\nThì em xin một lần không tên, nguyện yêu anh một đời an yên, oh-huh-oh-huh-huh-huh\nVạn lời chúc ấm êm cho nhau là sẽ thành đôi sau vài cái xuân\nMong trời sẽ thương em, thương anh và cho đôi mình mãi bên nhau dài lâu\nCho dù thế gian kia cuồng quay trăm bộn bề, ta vẫn không cách rời\nHuh-uh-oh-oh\nHuh-uh-oh-uh-oh (huh-uh-oh-uh-oh)\nRồi ta sẽ ngắm pháo hoa cùng nhau",
-      "listen": 63922111
     }
   }
 }

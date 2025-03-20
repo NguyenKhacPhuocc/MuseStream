@@ -1,0 +1,206 @@
+{
+  "categories": {
+    "1": {
+      "image": "https://backend.daca.vn/assets/images/nhac-tre.jpg",
+      "title": "Nhạc trẻ",
+      "description": "Tổng hợp nhạc Nhạc trẻ mới nhất"
+    },
+    "2": {
+      "image": "https://backend.daca.vn/assets/images/bolero.jpg",
+      "title": "Bolero",
+      "description": "Tổng hợp nhạc Bolero mới nhất"
+    },
+    "3": {
+      "image": "https://backend.daca.vn/assets/images/remix.jpg",
+      "title": "Remix",
+      "description": "Tổng hợp nhạc Remix mới nhất"
+    },
+    "4": {
+      "image": "https://backend.daca.vn/assets/images/hip-hop.jpg",
+      "title": "Hip-Hop",
+      "description": "Tổng hợp nhạc Hip-Hop mới nhất"
+    },
+    "5": {
+      "image": "https://backend.daca.vn/assets/images/latin.jpg",
+      "title": "Latin",
+      "description": "Tổng hợp nhạc Latin mới nhất"
+    },
+    "6": {
+      "image": "https://backend.daca.vn/assets/images/acoustic.jpg",
+      "title": "Acoustic",
+      "description": "Tổng hợp nhạc Acoustic mới nhất"
+    },
+    "7": {
+      "image": "https://backend.daca.vn/assets/images/rock.jpg",
+      "title": "Rock",
+      "description": "Tổng hợp nhạc Rock mới nhất"
+    }
+  },
+  "singers": {
+    "1": {
+      "image": "https://backend.daca.vn/assets/images/tang-duy-tan.jpg",
+      "title": "Tăng Duy Tân",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "2": {
+      "image": "https://backend.daca.vn/assets/images/thanh-dat.jpg",
+      "title": "Thành Đạt",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "3": {
+      "image": "https://backend.daca.vn/assets/images/cao-thai-son.jpg",
+      "title": "Cao Thái Sơn",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "4": {
+      "image": "https://backend.daca.vn/assets/images/tlong.jpg",
+      "title": "TLong",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "5": {
+      "image": "https://backend.daca.vn/assets/images/nal.jpg",
+      "title": "Nal",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  },
+  "songs": {
+    "1": {
+      "image": "https://backend.daca.vn/assets/images/cat-doi-noi-sau.jpg",
+      "title": "Cắt Đôi Nỗi Sầu",
+      "categoryId": "1",
+      "singerId": [
+        "1",
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/cat-doi-noi-sau.mp3",
+      "lyric": "Cắt đôi nỗi sầu anh buông tay cắt đôi nỗi sầu\\n  Anh cắt đi cả bóng hình anh mang theo bên mình bấy lâu\\n  Nỗi đau đã cạn cơn mưa trong tim cũng đã tàn\\n  Anh bán đi mọi nỗi buồn để chẳng còn gì ngoài thanh thản\\n  Em ơi anh muốn mỗi tối đến anh không phải thất tình\\n  Muốn quên một bóng hình em để lại trong tim\\n  Anh không thể đếm đã có bấy nhiêu đêm phải kiếm tìm\\n  Kiếm thêm một lí do cho cuộc tình không tên không tên\\n  Anh đã thức thức xuyên đêm\\n  Anh đã cố gắng để quên em\\n  Nhưng anh biết trong con tim anh không đành không đành\\n  Màn đêm xuống muốn buông tay\\n  Sầu giăng kín nỗi nhớ đong đầy\\n  Anh đang chết dần ngày từng ngày em ơi\\n  Nhớ em rất nhiều em ơi anh nhớ em rất nhiều\\n  Anh nhớ hơn cả nhớ nhà nhưng em đâu nhớ gì đến ta\\n  Lúc yêu chẳng hiểu khi chia li sẽ đau rất nhiều\\n  Đau đến trong tận linh hồn và cuộc đời một màu băng giá\\n  Em ơi anh muốn mỗi tối đến anh không phải thất tình\\n  Muốn quên một bóng hình em để lại trong tim\\n  Anh không thể đếm đã có bấy nhiêu đêm phải kiếm tìm\\n  Kiếm thêm một lí do cho cuộc tình không tên không tên\\n  Anh đã thức thức xuyên đêm\\n  Anh đã cố gắng để quên em\\n  Nhưng anh biết trong con tim anh không đành không đành\\n  Màn đêm xuống muốn buông tay\\n  Sầu giăng kín nỗi nhớ đong đầy\\n  Anh đang chết dần ngày từng ngày em ơi\\n",
+      "listen": 24500
+    },
+    "2": {
+      "image": "https://backend.daca.vn/assets/images/ngay-mai-nguoi-ta-lay-chong.jpg",
+      "title": "Ngày Mai Người Ta Lấy Chồng",
+      "categoryId": "1",
+      "singerId": [
+        "2"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/ngay-mai-nguoi-ta-lay-chong.mp3",
+      "lyric": "Ai tìm ai trên phố vắng ngược lối cơn mưa chiều giăng giăng\\n  Ai tìm ai dưới trăng nghiêng bóng ngõ dài vằng vặc\\n  Ai đặt tên cho ký ức là nỗi đau của ngày hôm qua\\n  Ai đặt tên chúng ta là người lạ\\n  Có phải đêm qua thức trắng để gấp con tim làm hai ngăn\\n  Ngăn phải ôm nỗi đau còn ngăn trái chứa hạt nhiệm màu\\n  Kịp sáng mang đến làm quà cô dâu sợ mai kia sương phai hoa úa áo nhàu\\n  Anh đợi em anh chọn ngăn nỗi đau\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Có phải đêm qua thức trắng để gấp con tim làm hai ngăn\\n  Ngăn phải ôm nỗi đau còn ngăn trái chứa hạt nhiệm màu\\n  Kịp sáng mang đến làm quà cô dâu sợ mai kia sương phai hoa úa áo nhàu\\n  Anh đợi em anh chọn ngăn nỗi đau\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Vì mai người ta đã đi lấy chồng\\n",
+      "listen": 20500
+    },
+    "3": {
+      "image": "https://backend.daca.vn/assets/images/tat-ca-hoac-khong-la-gi-ca.jpg",
+      "title": "Tất Cả Hoặc Không Là Gì Cả",
+      "categoryId": "3",
+      "singerId": [
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/tat-ca-hoac-khong-la-gi-ca.mp3",
+      "lyric": "Ta yêu nhau từ trong lặng thinh\\n  Rồi cứ xa nhau trong lặng thinh\\n  Không họ cũng chẳng tên\\n  Đợi đến lúc quay mặt là quên\\n  Ta yêu nhau chỉ mình ta biết\\n  Trời chẳng hay, đất cũng chẳng biết\\n  Không phận cũng chẳng duyên\\n  Sao lại tha thiết\\n  Trông như ta là đôi tình nhân\\n  Mà mấy khi giống với nhân tình\\n  Nhân tình nào giấu sâu\\n  Tận ngõ khuất không dám công nhận\\n  Hững hờ rồi thiết tha\\n  Chẳng quen cũng chẳng phải lạ\\n  Chẳng sâu đậm\\n  Cũng không phải là phôi pha\\n  Cuối cùng thì mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lưng chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Trông như ta là đôi tình nhân\\n  Nào mấy khi giống với tình nhân\\n  Nhân tình nào giấu sâu\\n  Tận ngõ khuất không dám công nhận\\n  Hững hờ rồi thiết tha\\n  Chẳng quen cũng chẳng phải lạ\\n  Chẳng sâu đậm cũng không phải là phôi pha\\n  Cuối cùng thì mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lưng chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Cuối cùng thì, mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Hy vọng cho ai\\n  Chán thì dừng\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lung chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n",
+      "listen": 18800
+    },
+    "4": {
+      "image": "https://backend.daca.vn/assets/images/ruou-mung-hoa-nguoi-dung.jpg",
+      "title": "Rượu Mừng Hóa Người Dưng",
+      "categoryId": "6",
+      "singerId": [
+        "4",
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/ruou-mung-hoa-nguoi-dung.mp3",
+      "lyric": "Nhâm nhi ly rượu cay trong ngày lễ vu quy\\n  Biết rằng đau nhưng chẳng thể u sầu !\\n  Xin chúc em răng long, bạc đầu\\n  Câu yêu thương ngày nào sao hôm nay hóa chua cay\\n  Em cầm tay ai không phải anh vậy\\n  Yêu đến mấy cũng tan thành mây\\n  Lời ngọt ngào hôm qua anh nhớ mà\\n  Đến bây giờ đôi ta bỗng chốc xa lạ\\n  Thôi duyên em bên ai như ván kia đã đóng thuyền\\n  Níu lấy biệt ly, anh tiễn người đi xa mờ\\n  Anh biết, đến bây giờ đôi ta\\n  Chẳng là gì của nhau\\n  Yêu dấu thôi đành ngậm ngùi vùi chôn theo niềm đau\\n  Anh phải ôm vào lòng tất cả\\n  Tháng ngày qua tình em dối trá\\n  Trả cho anh rượu mừng để chúng ta là người dưng !\\n  Phải chi chúng ta đừng cho nhau lời thề nguyện thấm sâu\\n  Có lẽ bây giờ lòng này chẳng đau như vậy đâu\\n  Thuyền hoa đã rời xa bến vắng\\n  Tình cành thương, lòng càng cay đắng\\n  Tháng năm ta đã từng\\n  Cớ sao nay thành người dưng .\\n",
+      "listen": 22800
+    },
+    "5": {
+      "image": "https://backend.daca.vn/assets/images/cat-doi-noi-sau.jpg",
+      "title": "Cắt Đôi Nỗi Sầu",
+      "categoryId": "1",
+      "singerId": [
+        "1",
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/cat-doi-noi-sau.mp3",
+      "lyric": "Cắt đôi nỗi sầu anh buông tay cắt đôi nỗi sầu\\n  Anh cắt đi cả bóng hình anh mang theo bên mình bấy lâu\\n  Nỗi đau đã cạn cơn mưa trong tim cũng đã tàn\\n  Anh bán đi mọi nỗi buồn để chẳng còn gì ngoài thanh thản\\n  Em ơi anh muốn mỗi tối đến anh không phải thất tình\\n  Muốn quên một bóng hình em để lại trong tim\\n  Anh không thể đếm đã có bấy nhiêu đêm phải kiếm tìm\\n  Kiếm thêm một lí do cho cuộc tình không tên không tên\\n  Anh đã thức thức xuyên đêm\\n  Anh đã cố gắng để quên em\\n  Nhưng anh biết trong con tim anh không đành không đành\\n  Màn đêm xuống muốn buông tay\\n  Sầu giăng kín nỗi nhớ đong đầy\\n  Anh đang chết dần ngày từng ngày em ơi\\n  Nhớ em rất nhiều em ơi anh nhớ em rất nhiều\\n  Anh nhớ hơn cả nhớ nhà nhưng em đâu nhớ gì đến ta\\n  Lúc yêu chẳng hiểu khi chia li sẽ đau rất nhiều\\n  Đau đến trong tận linh hồn và cuộc đời một màu băng giá\\n  Em ơi anh muốn mỗi tối đến anh không phải thất tình\\n  Muốn quên một bóng hình em để lại trong tim\\n  Anh không thể đếm đã có bấy nhiêu đêm phải kiếm tìm\\n  Kiếm thêm một lí do cho cuộc tình không tên không tên\\n  Anh đã thức thức xuyên đêm\\n  Anh đã cố gắng để quên em\\n  Nhưng anh biết trong con tim anh không đành không đành\\n  Màn đêm xuống muốn buông tay\\n  Sầu giăng kín nỗi nhớ đong đầy\\n  Anh đang chết dần ngày từng ngày em ơi\\n",
+      "listen": 24500
+    },
+    "6": {
+      "image": "https://backend.daca.vn/assets/images/ngay-mai-nguoi-ta-lay-chong.jpg",
+      "title": "Ngày Mai Người Ta Lấy Chồng",
+      "categoryId": "1",
+      "singerId": [
+        "2"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/ngay-mai-nguoi-ta-lay-chong.mp3",
+      "lyric": "Ai tìm ai trên phố vắng ngược lối cơn mưa chiều giăng giăng\\n  Ai tìm ai dưới trăng nghiêng bóng ngõ dài vằng vặc\\n  Ai đặt tên cho ký ức là nỗi đau của ngày hôm qua\\n  Ai đặt tên chúng ta là người lạ\\n  Có phải đêm qua thức trắng để gấp con tim làm hai ngăn\\n  Ngăn phải ôm nỗi đau còn ngăn trái chứa hạt nhiệm màu\\n  Kịp sáng mang đến làm quà cô dâu sợ mai kia sương phai hoa úa áo nhàu\\n  Anh đợi em anh chọn ngăn nỗi đau\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Có phải đêm qua thức trắng để gấp con tim làm hai ngăn\\n  Ngăn phải ôm nỗi đau còn ngăn trái chứa hạt nhiệm màu\\n  Kịp sáng mang đến làm quà cô dâu sợ mai kia sương phai hoa úa áo nhàu\\n  Anh đợi em anh chọn ngăn nỗi đau\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Vì mai người ta đã đi lấy chồng\\n",
+      "listen": 20500
+    },
+    "7": {
+      "image": "https://backend.daca.vn/assets/images/tat-ca-hoac-khong-la-gi-ca.jpg",
+      "title": "Tất Cả Hoặc Không Là Gì Cả",
+      "categoryId": "3",
+      "singerId": [
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/tat-ca-hoac-khong-la-gi-ca.mp3",
+      "lyric": "Ta yêu nhau từ trong lặng thinh\\n  Rồi cứ xa nhau trong lặng thinh\\n  Không họ cũng chẳng tên\\n  Đợi đến lúc quay mặt là quên\\n  Ta yêu nhau chỉ mình ta biết\\n  Trời chẳng hay, đất cũng chẳng biết\\n  Không phận cũng chẳng duyên\\n  Sao lại tha thiết\\n  Trông như ta là đôi tình nhân\\n  Mà mấy khi giống với nhân tình\\n  Nhân tình nào giấu sâu\\n  Tận ngõ khuất không dám công nhận\\n  Hững hờ rồi thiết tha\\n  Chẳng quen cũng chẳng phải lạ\\n  Chẳng sâu đậm\\n  Cũng không phải là phôi pha\\n  Cuối cùng thì mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lưng chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Trông như ta là đôi tình nhân\\n  Nào mấy khi giống với tình nhân\\n  Nhân tình nào giấu sâu\\n  Tận ngõ khuất không dám công nhận\\n  Hững hờ rồi thiết tha\\n  Chẳng quen cũng chẳng phải lạ\\n  Chẳng sâu đậm cũng không phải là phôi pha\\n  Cuối cùng thì mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lưng chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Cuối cùng thì, mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Hy vọng cho ai\\n  Chán thì dừng\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lung chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n",
+      "listen": 18800
+    },
+    "8": {
+      "image": "https://backend.daca.vn/assets/images/ruou-mung-hoa-nguoi-dung.jpg",
+      "title": "Rượu Mừng Hóa Người Dưng",
+      "categoryId": "6",
+      "singerId": [
+        "4",
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/ruou-mung-hoa-nguoi-dung.mp3",
+      "lyric": "Nhâm nhi ly rượu cay trong ngày lễ vu quy\\n  Biết rằng đau nhưng chẳng thể u sầu !\\n  Xin chúc em răng long, bạc đầu\\n  Câu yêu thương ngày nào sao hôm nay hóa chua cay\\n  Em cầm tay ai không phải anh vậy\\n  Yêu đến mấy cũng tan thành mây\\n  Lời ngọt ngào hôm qua anh nhớ mà\\n  Đến bây giờ đôi ta bỗng chốc xa lạ\\n  Thôi duyên em bên ai như ván kia đã đóng thuyền\\n  Níu lấy biệt ly, anh tiễn người đi xa mờ\\n  Anh biết, đến bây giờ đôi ta\\n  Chẳng là gì của nhau\\n  Yêu dấu thôi đành ngậm ngùi vùi chôn theo niềm đau\\n  Anh phải ôm vào lòng tất cả\\n  Tháng ngày qua tình em dối trá\\n  Trả cho anh rượu mừng để chúng ta là người dưng !\\n  Phải chi chúng ta đừng cho nhau lời thề nguyện thấm sâu\\n  Có lẽ bây giờ lòng này chẳng đau như vậy đâu\\n  Thuyền hoa đã rời xa bến vắng\\n  Tình cành thương, lòng càng cay đắng\\n  Tháng năm ta đã từng\\n  Cớ sao nay thành người dưng .\\n",
+      "listen": 22800
+    },
+    "9": {
+      "image": "https://backend.daca.vn/assets/images/cat-doi-noi-sau.jpg",
+      "title": "Cắt Đôi Nỗi Sầu",
+      "categoryId": "1",
+      "singerId": [
+        "1",
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/cat-doi-noi-sau.mp3",
+      "lyric": "Cắt đôi nỗi sầu anh buông tay cắt đôi nỗi sầu\\n  Anh cắt đi cả bóng hình anh mang theo bên mình bấy lâu\\n  Nỗi đau đã cạn cơn mưa trong tim cũng đã tàn\\n  Anh bán đi mọi nỗi buồn để chẳng còn gì ngoài thanh thản\\n  Em ơi anh muốn mỗi tối đến anh không phải thất tình\\n  Muốn quên một bóng hình em để lại trong tim\\n  Anh không thể đếm đã có bấy nhiêu đêm phải kiếm tìm\\n  Kiếm thêm một lí do cho cuộc tình không tên không tên\\n  Anh đã thức thức xuyên đêm\\n  Anh đã cố gắng để quên em\\n  Nhưng anh biết trong con tim anh không đành không đành\\n  Màn đêm xuống muốn buông tay\\n  Sầu giăng kín nỗi nhớ đong đầy\\n  Anh đang chết dần ngày từng ngày em ơi\\n  Nhớ em rất nhiều em ơi anh nhớ em rất nhiều\\n  Anh nhớ hơn cả nhớ nhà nhưng em đâu nhớ gì đến ta\\n  Lúc yêu chẳng hiểu khi chia li sẽ đau rất nhiều\\n  Đau đến trong tận linh hồn và cuộc đời một màu băng giá\\n  Em ơi anh muốn mỗi tối đến anh không phải thất tình\\n  Muốn quên một bóng hình em để lại trong tim\\n  Anh không thể đếm đã có bấy nhiêu đêm phải kiếm tìm\\n  Kiếm thêm một lí do cho cuộc tình không tên không tên\\n  Anh đã thức thức xuyên đêm\\n  Anh đã cố gắng để quên em\\n  Nhưng anh biết trong con tim anh không đành không đành\\n  Màn đêm xuống muốn buông tay\\n  Sầu giăng kín nỗi nhớ đong đầy\\n  Anh đang chết dần ngày từng ngày em ơi\\n",
+      "listen": 24500
+    },
+    "10": {
+      "image": "https://backend.daca.vn/assets/images/ngay-mai-nguoi-ta-lay-chong.jpg",
+      "title": "Ngày Mai Người Ta Lấy Chồng",
+      "categoryId": "1",
+      "singerId": [
+        "2"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/ngay-mai-nguoi-ta-lay-chong.mp3",
+      "lyric": "Ai tìm ai trên phố vắng ngược lối cơn mưa chiều giăng giăng\\n  Ai tìm ai dưới trăng nghiêng bóng ngõ dài vằng vặc\\n  Ai đặt tên cho ký ức là nỗi đau của ngày hôm qua\\n  Ai đặt tên chúng ta là người lạ\\n  Có phải đêm qua thức trắng để gấp con tim làm hai ngăn\\n  Ngăn phải ôm nỗi đau còn ngăn trái chứa hạt nhiệm màu\\n  Kịp sáng mang đến làm quà cô dâu sợ mai kia sương phai hoa úa áo nhàu\\n  Anh đợi em anh chọn ngăn nỗi đau\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Có phải đêm qua thức trắng để gấp con tim làm hai ngăn\\n  Ngăn phải ôm nỗi đau còn ngăn trái chứa hạt nhiệm màu\\n  Kịp sáng mang đến làm quà cô dâu sợ mai kia sương phai hoa úa áo nhàu\\n  Anh đợi em anh chọn ngăn nỗi đau\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Ngày hôm ấy em đi trong mưa thế nhưng lại quên tim không khoá cửa\\n  Để cho mưa lân la hỏi thăm lẻn vào trộm đi khế ước trăm năm\\n  Ngày em đi theo cơn mưa ngâu bầy chim lạc cánh khóc hoảng tìm nhau\\n  Ai đong ai đếm hết bao giọt sầu hết bao giọt sầu\\n  Hỏi mùa thu đang ru miên man mỗi năm mùa rơi bao chiếc lá vàng\\n  Liệu có biết ở nơi nào không có lá nào trông như lá diêu bông\\n  Hỡi diêu bông ơi hỡi diêu bông bình minh chưa hé tôi phải tìm xong\\n  Vì mai người ta đã đi lấy chồng\\n  Vì mai người ta đã đi lấy chồng\\n",
+      "listen": 20500
+    },
+    "11": {
+      "image": "https://backend.daca.vn/assets/images/tat-ca-hoac-khong-la-gi-ca.jpg",
+      "title": "Tất Cả Hoặc Không Là Gì Cả",
+      "categoryId": "3",
+      "singerId": [
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/tat-ca-hoac-khong-la-gi-ca.mp3",
+      "lyric": "Ta yêu nhau từ trong lặng thinh\\n  Rồi cứ xa nhau trong lặng thinh\\n  Không họ cũng chẳng tên\\n  Đợi đến lúc quay mặt là quên\\n  Ta yêu nhau chỉ mình ta biết\\n  Trời chẳng hay, đất cũng chẳng biết\\n  Không phận cũng chẳng duyên\\n  Sao lại tha thiết\\n  Trông như ta là đôi tình nhân\\n  Mà mấy khi giống với nhân tình\\n  Nhân tình nào giấu sâu\\n  Tận ngõ khuất không dám công nhận\\n  Hững hờ rồi thiết tha\\n  Chẳng quen cũng chẳng phải lạ\\n  Chẳng sâu đậm\\n  Cũng không phải là phôi pha\\n  Cuối cùng thì mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lưng chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Trông như ta là đôi tình nhân\\n  Nào mấy khi giống với tình nhân\\n  Nhân tình nào giấu sâu\\n  Tận ngõ khuất không dám công nhận\\n  Hững hờ rồi thiết tha\\n  Chẳng quen cũng chẳng phải lạ\\n  Chẳng sâu đậm cũng không phải là phôi pha\\n  Cuối cùng thì mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lưng chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Cuối cùng thì, mình gọi nhau là gì\\n  Là bến đỗ hay là trạm dừng nghỉ\\n  Tình có lúc thật, đôi lúc không thật\\n  Có nắm em được đâu mà mất\\n  Bước thì ngại mà chậm bước ở lại\\n  Làm người cô đơn với nỗi nhớ đêm dài\\n  Vậy ta là ai, ta cố ôm hy vọng cho ai?\\n  Hy vọng cho ai\\n  Chán thì dừng\\n  Chán thì dừng, mập mờ thôi thì đừng\\n  Chẳng ai muốn nắm lấy quá khứ lung chừng\\n  Là tất cả, hoặc không phải là gì cả\\n  Phố thênh thang dòng người bước vội vàng\\n  Sợ cơn mưa kia đôi khi quá nặng hạt\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n  Nhìn mưa buồn rơi vỡ tan, vỡ tan\\n",
+      "listen": 18800
+    },
+    "12": {
+      "image": "https://backend.daca.vn/assets/images/ruou-mung-hoa-nguoi-dung.jpg",
+      "title": "Rượu Mừng Hóa Người Dưng",
+      "categoryId": "6",
+      "singerId": [
+        "4",
+        "3"
+      ],
+      "audio": "https://backend.daca.vn/assets/audios/ruou-mung-hoa-nguoi-dung.mp3",
+      "lyric": "Nhâm nhi ly rượu cay trong ngày lễ vu quy\\n  Biết rằng đau nhưng chẳng thể u sầu !\\n  Xin chúc em răng long, bạc đầu\\n  Câu yêu thương ngày nào sao hôm nay hóa chua cay\\n  Em cầm tay ai không phải anh vậy\\n  Yêu đến mấy cũng tan thành mây\\n  Lời ngọt ngào hôm qua anh nhớ mà\\n  Đến bây giờ đôi ta bỗng chốc xa lạ\\n  Thôi duyên em bên ai như ván kia đã đóng thuyền\\n  Níu lấy biệt ly, anh tiễn người đi xa mờ\\n  Anh biết, đến bây giờ đôi ta\\n  Chẳng là gì của nhau\\n  Yêu dấu thôi đành ngậm ngùi vùi chôn theo niềm đau\\n  Anh phải ôm vào lòng tất cả\\n  Tháng ngày qua tình em dối trá\\n  Trả cho anh rượu mừng để chúng ta là người dưng !\\n  Phải chi chúng ta đừng cho nhau lời thề nguyện thấm sâu\\n  Có lẽ bây giờ lòng này chẳng đau như vậy đâu\\n  Thuyền hoa đã rời xa bến vắng\\n  Tình cành thương, lòng càng cay đắng\\n  Tháng năm ta đã từng\\n  Cớ sao nay thành người dưng .\\n",
+      "listen": 22800
+    }
+  }
+}
