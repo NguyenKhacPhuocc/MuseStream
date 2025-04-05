@@ -64,7 +64,7 @@ export const Section2HomePage = () => {
   }, []);
 
   return (
-    <section className="xl:mb-[30px] md:mb-[20px] sm:mb-[10px]">
+    <section className="xl:mb-[30px] md:mb-[20px] sm:mb-[10px]" data-aos="fade-up" data-aos-duration="800">
       <div className="xl:mb-[10px] lg:mb-[5px]">
         <Title text={"Danh Mục Nổi Bật"} />
       </div>

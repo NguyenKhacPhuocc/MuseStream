@@ -126,7 +126,7 @@ export const ButtonPlay = (props: any) => {
 
     const expandMenu = document.querySelector(".expand-menu");
     if (expandMenu) {
-      expandMenu.classList.toggle("bottom-[100px]")
+      expandMenu.classList.add("bottom-[100px]")
     }
 
   }

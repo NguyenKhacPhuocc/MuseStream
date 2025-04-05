@@ -1,6 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
+import { useEffect, useState } from "react";
 import { Suspense } from "react";
 import { SongProvider } from "../Context/SongContext";
 import StartLayer from "./StartLayer";
@@ -20,6 +22,14 @@ export default function ClientLayout({
   const handleStart = () => {
     setShowStartLayer(false);
   };
+
+  useEffect(() => {
+    AOS.init({
+      duration: 800,
+      easing: "ease-out",
+      once: false,
+    });
+  }, []);
 
   return (
     <SongProvider>

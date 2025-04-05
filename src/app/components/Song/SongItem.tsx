@@ -1,5 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @next/next/no-img-element */
+"use client";
+
 import Link from "next/link";
 import { ButtonPlay } from "../Buttons/ButtonPlay";
 import { ButtonWishlist } from "../Buttons/ButtonWishlist";
@@ -10,7 +12,9 @@ export const SongItem = (props: { item: any }) => {
     <>
       <div
         className="flex bg-bg2 lg:p-[10px] md:p-[7px] rounded-[15px] justify-between items-center "
-        song-id={item.id}>
+        song-id={item.id}
+        data-aos="fade-left" data-aos-duration="800"
+      >
         <div className="flex items-center">
           <Link
             href={item.link}
